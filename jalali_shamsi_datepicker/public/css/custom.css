@@ -1,1 +1,11 @@
+/* غیرفعال کردن تقویم استاندارد */
+.datepickers-container {
+    display: none !important;
+}
 
+/* استایل معادل میلادی */
+.gregorian-date, .gregorian-datetime {
+    font-size: 12px;
+    color: #888;
+    margin-top: 5px;
+}
