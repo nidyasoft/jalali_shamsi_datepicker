@@ -5,9 +5,9 @@ description = "A best solution to change date and datetime fields to Shamsi(Jala
 authors = [
     { name = "Ideenemium", email = "ideenemium@gmail.com" }
 ]
-dependencies = [
-    "frappe"
-]
+# dependencies = [
+#     "frappe"
+# ]
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
