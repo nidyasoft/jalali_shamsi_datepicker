@@ -1,0 +1,23 @@
+[project]
+name = "jalali_shamsi_datepicker"
+version = "1.0.0"
+description = "A best solution to change date and datetime fields to Shamsi(Jalali) Calendar."
+authors = [
+    { name = "Ideenemium", email = "ideenemium@gmail.com" }
+]
+# dependencies = [
+#     "frappe"
+# ]
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/Atshan/jalali_shamsi_datepicker"
+Repository = "https://github.com/Atshan/jalali_shamsi_datepicker"
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.bench.dev-dependencies]

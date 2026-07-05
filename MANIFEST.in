@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include jalali_shamsi_datepicker *.css
+recursive-include jalali_shamsi_datepicker *.csv
+recursive-include jalali_shamsi_datepicker *.html
+recursive-include jalali_shamsi_datepicker *.ico
+recursive-include jalali_shamsi_datepicker *.js
+recursive-include jalali_shamsi_datepicker *.json
+recursive-include jalali_shamsi_datepicker *.md
+recursive-include jalali_shamsi_datepicker *.png
+recursive-include jalali_shamsi_datepicker *.py
+recursive-include jalali_shamsi_datepicker *.svg
+recursive-include jalali_shamsi_datepicker *.txt
+recursive-exclude jalali_shamsi_datepicker *.pyc
